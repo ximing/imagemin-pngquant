@@ -1,5 +1,5 @@
 {
-	"name": "imagemin-pngquant",
+	"name": "@yeanzhi/imagemin-pngquant",
 	"version": "8.0.0",
 	"description": "Imagemin plugin for `pngquant`",
 	"license": "MIT",
@@ -28,7 +28,7 @@
 		"is-png": "^2.0.0",
 		"is-stream": "^2.0.0",
 		"ow": "^0.13.2",
-		"pngquant-bin": "^5.0.0"
+		"@yeanzhi/pngquant-bin": "^5.0.0"
 	},
 	"devDependencies": {
 		"@types/node": "^12.0.3",
